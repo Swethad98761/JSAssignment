@@ -1,0 +1,10 @@
+{
+  "images": [
+    {
+      "name": "image1",
+      "URL": "../images/image6.jpg",
+      "date": "25-12-2009",
+      "information": "flowers"
+    }
+  ]
+}
